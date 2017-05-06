@@ -1,7 +1,12 @@
 h1 {
     color: #24129B;
 }
-
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #426493;
+}
 h2 {
     color: #24129B;
 }
